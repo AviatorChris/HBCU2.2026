@@ -1,0 +1,51 @@
+{
+  "leagueName": "HBCU 2026",
+  "conferences": [
+    {
+      "name": "SWAC",
+      "prestige": 90,
+      "teams": [
+        {
+          "name": "Alabama A&M",
+          "abbreviation": "AAMU",
+          "primaryColor": "#800000",
+          "secondaryColor": "#FFFFFF",
+          "offense": "Spread",
+          "defense": "4-2-5"
+        },
+        {
+          "name": "Alabama State",
+          "abbreviation": "ALST",
+          "primaryColor": "#000000",
+          "secondaryColor": "#FFD700",
+          "offense": "Pro Style",
+          "defense": "4-3"
+        },
+        {
+          "name": "Alcorn State",
+          "abbreviation": "ALCN",
+          "primaryColor": "#4B0082",
+          "secondaryColor": "#FFD700",
+          "offense": "Option",
+          "defense": "3-4"
+        },
+        {
+          "name": "Bethune-Cookman",
+          "abbreviation": "BCU",
+          "primaryColor": "#0033A0",
+          "secondaryColor": "#F26522",
+          "offense": "Spread",
+          "defense": "4-2-5"
+        },
+        {
+          "name": "Florida A&M",
+          "abbreviation": "FAMU",
+          "primaryColor": "#006400",
+          "secondaryColor": "#FF8C00",
+          "offense": "Pro Style",
+          "defense": "4-3"
+        }
+      ]
+    }
+  ]
+}

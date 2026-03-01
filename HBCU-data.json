@@ -1,1 +1,101 @@
-
+{
+  "awardCustomizations": [
+    "Best Player Award",
+    "Best Offensive Player Award",
+    "Best Defensive Player Award",
+    "Best Quarterback Award",
+    "Best Running Back Award",
+    "Best Wide Receiver Award",
+    "Best Tight End Award",
+    "Best Lineman Award",
+    "Best Linebacker Award",
+    "Best Defensive Back Award",
+    "Best Kicker Award",
+    "Best Punter Award",
+    "Freshman of the Year"
+  ],
+  "bowlGames": [
+    "Allstate HBCU Legacy Bowl",
+    "Bayou Classic",
+    "Florida Classic"
+  ],
+  "conferences": {
+    "SWAC": {
+      "prestige": 90,
+      "teams": [
+        {
+          "name": "Alabama A&M",
+          "abbreviation": "ALAMAM",
+          "offenseScheme": "Spread",
+          "defenseScheme": "4-2-5",
+          "colors": ["Maroon", "White"],
+          "mascot": "Bulldogs",
+          "region": "South"
+        },
+        {
+          "name": "Alabama State",
+          "abbreviation": "ALAST",
+          "offenseScheme": "Pro Style",
+          "defenseScheme": "4-3",
+          "colors": ["Gold", "Black"],
+          "mascot": "Hornets",
+          "region": "South"
+        },
+        {
+          "name": "Alcorn State",
+          "abbreviation": "ALCST",
+          "offenseScheme": "Option",
+          "defenseScheme": "3-4",
+          "colors": ["Purple", "Gold"],
+          "mascot": "Braves",
+          "region": "South"
+        },
+        {
+          "name": "Bethune-Cookman",
+          "abbreviation": "BCU",
+          "offenseScheme": "Spread",
+          "defenseScheme": "4-2-5",
+          "colors": ["Royal Blue", "Orange"],
+          "mascot": "Wildcats",
+          "region": "South"
+        },
+        {
+          "name": "Florida A&M",
+          "abbreviation": "FAMU",
+          "offenseScheme": "Pro Style",
+          "defenseScheme": "4-3",
+          "colors": ["Green", "Orange"],
+          "mascot": "Rattlers",
+          "region": "South"
+        },
+        {
+          "name": "Grambling State",
+          "abbreviation": "GRAMST",
+          "offenseScheme": "Spread",
+          "defenseScheme": "4-3",
+          "colors": ["Black", "Gold"],
+          "mascot": "Tigers",
+          "region": "South"
+        },
+        {
+          "name": "Jackson State",
+          "abbreviation": "JACST",
+          "offenseScheme": "Pro Style",
+          "defenseScheme": "4-3",
+          "colors": ["Blue", "White"],
+          "mascot": "Tigers",
+          "region": "South"
+        },
+        {
+          "name": "Mississippi Valley State",
+          "abbreviation": "MVSU",
+          "offenseScheme": "Option",
+          "defenseScheme": "3-4",
+          "colors": ["Red", "White"],
+          "mascot": "Delta Devils",
+          "region": "South"
+        }
+      ]
+    }
+  }
+}
